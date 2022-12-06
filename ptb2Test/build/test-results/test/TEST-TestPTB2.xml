@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestPTB2" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-12-06T01:58:33" hostname="IT_BACKUP2" time="0.06">
+  <properties/>
+  <testcase name="testCaseVoNghiem1()" classname="TestPTB2" time="0.022"/>
+  <testcase name="testCaseHaiNghiem2()" classname="TestPTB2" time="0.002"/>
+  <testcase name="testCaseHaiNghiem3()" classname="TestPTB2" time="0.001"/>
+  <testcase name="testCaseNghiemKep()" classname="TestPTB2" time="0.001"/>
+  <testcase name="testCaseHaiNghiem()" classname="TestPTB2" time="0.001"/>
+  <testcase name="testCaseVoNghiem()" classname="TestPTB2" time="0.007"/>
+  <testcase name="testCaseNghiemKep1()" classname="TestPTB2" time="0.015"/>
+  <testcase name="testCaseNghiemKep2()" classname="TestPTB2" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
